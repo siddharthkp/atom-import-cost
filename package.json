@@ -1,0 +1,19 @@
+{
+  "name": "atom-import-cost",
+  "main": "./lib/main",
+  "version": "0.0.1",
+  "description": "Get the size of your dependencies",
+  "keywords": [
+    "size"
+  ],
+  "repository": "https://github.com/siddharthkp/atom-import-cost",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  },
+  "activationCommands": {
+    "atom-workspace": "atom-import-cost:toggle"
+  }
+}
