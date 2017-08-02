@@ -1,7 +1,7 @@
 {
   "name": "atom-import-cost",
   "main": "./lib/main",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Get the size of your dependencies",
   "keywords": [
     "size"
@@ -11,8 +11,7 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "activationCommands": {
     "atom-workspace": "atom-import-cost:toggle"
   }
