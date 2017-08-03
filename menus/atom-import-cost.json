@@ -1,26 +1,12 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle atom-import-cost",
-        "command": "atom-import-cost:toggle"
-      }
-    ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "atom-import-cost",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "atom-import-cost:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+	"menu": [{
+		"label": "Packages",
+		"submenu": [{
+			"label": "Import cost",
+			"submenu": [{
+				"label": "Toggle",
+				"command": "atom-import-cost:toggle"
+			}]
+		}]
+	}]
 }

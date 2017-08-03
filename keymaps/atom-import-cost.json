@@ -1,5 +1,5 @@
 {
-  "atom-workspace": {
-    "ctrl-alt-x": "atom-import-cost:toggle"
-  }
+	"atom-workspace": {
+		"ctrl-alt-x": "atom-import-cost:toggle"
+	}
 }
