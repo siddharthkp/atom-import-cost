@@ -14,10 +14,6 @@ Please feel free to help me with any of them 🙈
 
   Right now, the label comes on the wrong line. Haven't been able to figure out why.
 
-- automatically activate on startup
-
-  Haven't properly RTFM yet
-
 - use persistent cache
 
   Right now, sizes are stored in a session cache, making it persistant would be a useful optimisation.
