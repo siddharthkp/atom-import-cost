@@ -2,4 +2,24 @@
 
 🚧 Work in progress! 🚧
 
-Check back in a few days or hear about it on https://twitter.com/siddharthkp
+TODO:
+
+Please feel free to help me with any of them 🙈
+
+- fix the label position
+
+  Right now, the label comes on the wrong line. Haven't been able to figure out why.
+
+- automatically activate on startup
+
+  Haven't properly RTFM yet
+
+- use persistent cache
+
+  Right now, sizes are stored in a session cache, making it persistant would be a useful optimisation.
+
+
+Check back in a few days or follow me on [twitter](https://twitter.com/siddharthkp) to know when it's done.
+
+
+Thanks to @pastelsky for the API that gives the size [cost-of-modules](cost-of-modules.herokuapp.com)
