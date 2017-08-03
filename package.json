@@ -6,14 +6,19 @@
   "keywords": [
     "size"
   ],
+  "scripts": {
+    "okay": "echo 1"
+  },
   "repository": "https://github.com/siddharthkp/atom-import-cost",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
+    "axios": "0.16.1",
     "detective-es6": "1.1.6",
-    "node-source-walk": "3.2.1"
+    "node-source-walk": "3.2.1",
+    "read-pkg-up": "2.0.0"
   },
   "activationCommands": {
     "atom-workspace": "atom-import-cost:toggle"
