@@ -11,9 +11,6 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "activationCommands": {
-    "atom-workspace": "atom-import-cost:toggle"
-  },
   "dependencies": {
     "axios": "0.16.1",
     "bytes": "2.5.0",
