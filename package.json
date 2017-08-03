@@ -11,7 +11,10 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {},
+  "dependencies": {
+    "detective-es6": "1.1.6",
+    "node-source-walk": "3.2.1"
+  },
   "activationCommands": {
     "atom-workspace": "atom-import-cost:toggle"
   }
