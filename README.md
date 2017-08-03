@@ -27,4 +27,6 @@ Please feel free to help me with any of them 🙈
 Check back in a few days or follow me on [twitter](https://twitter.com/siddharthkp) to know when it's done.
 
 
+Idea credits to the [wix team](https://github.com/wix/vscode-import-cost#import-cost-vscode-extension--).
+
 Thanks to @pastelsky for the API that gives the size [cost-of-modules](cost-of-modules.herokuapp.com)
