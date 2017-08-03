@@ -1,5 +1,5 @@
 {
-  "name": "import-cost",
+  "name": "atom-import-cost",
   "main": "./lib/main",
   "version": "0.2.0",
   "description": "Get the size of your dependencies",
