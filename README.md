@@ -1,8 +1,12 @@
-#### atom-import-cost
+![beta](https://img.shields.io/badge/build-beta-yellow.svg?style=flat)
+
+#### atom-import-cost 
 
 &nbsp;
 
-Check the size of the package you import.
+Check the size of the package you import, right in the editor.
+
+&nbsp;
 
 ![Check the size of the package you import](https://raw.githubusercontent.com/siddharthkp/atom-import-cost/master/import-cost.gif)
 
