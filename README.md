@@ -1,28 +1,33 @@
-# atom-import-cost
+#### atom-import-cost
 
 &nbsp;
 
-🚧 Work in progress! 🚧
+Check the size of the package you import.
+
+![Check the size of the package you import](https://raw.githubusercontent.com/siddharthkp/atom-import-cost/master/import-cost.gif)
 
 &nbsp;
 
-#### TODO:
-
-Please feel free to help me with any of them 🙈
-
-- fix the label position
-
-  Right now, the label comes on the wrong line. Haven't been able to figure out why.
-
-- use persistent cache
-
-  Right now, sizes are stored in a session cache, making it persistant would be a useful optimisation.
+Idea credits to the [wix team](https://github.com/wix/vscode-import-cost#import-cost-vscode-extension--) and thanks to @pastelsky for the API
 
 &nbsp;
 
-Check back in a few days or follow me on [twitter](https://twitter.com/siddharthkp) to know when it's done.
+#### Install
 
+Search from `atom-import-cost` in Atom packages or run `apm install atom-import-cost` on your terminal.
 
-Idea credits to the [wix team](https://github.com/wix/vscode-import-cost#import-cost-vscode-extension--).
+&nbsp;
 
-Thanks to @pastelsky for the API that gives the size [cost-of-modules](cost-of-modules.herokuapp.com)
+#### Known issues
+
+Please feel free to help out with these :)
+
+1. The size text doesn't always align perfectly (vertically)
+
+2. This packages uses the [cost-of-modules](cost-of-modules.herokuapp.com) api by @pastelsky. It's hosted on a free heroku instance, might not always be able to support the traffic it gets :)
+
+&nbsp;
+
+#### Show your support
+
+:star: this repo
