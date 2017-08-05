@@ -1,7 +1,7 @@
 {
   "name": "atom-import-cost",
   "main": "./lib/main",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Get the size of your dependencies",
   "keywords": [
     "size"
