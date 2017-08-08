@@ -2,7 +2,7 @@
   "name": "atom-import-cost",
   "main": "./lib/main",
   "version": "0.8.5",
-  "description": "Get the size of your dependencies",
+  "description": "Get the size of your Node module dependencies",
   "keywords": [
     "size"
   ],
@@ -12,9 +12,7 @@
     "atom": ">=1.0.0 <2.0.0"
   },
   "dependencies": {
-    "axios": "0.16.1",
-    "bytes": "2.5.0",
-    "node-source-walk": "3.2.1",
-    "read-pkg-up": "2.0.0"
+    "import-cost": "1.1.1",
+    "filesize": "3.5.10"
   }
 }
