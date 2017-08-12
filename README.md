@@ -1,3 +1,5 @@
+![beta](https://img.shields.io/badge/build-beta-yellow.svg?style=flat)
+
 #### atom-import-cost
 
 &nbsp;
@@ -35,3 +37,5 @@ Please feel free to help out with these :)
 :star: this repo
 
 &nbsp;
+
+[![Sponsor](https://app.codesponsor.io/embed/LhLT2c31ydJzdLUuSR9f8mCA/siddharthkp/atom-import-cost.svg)](https://app.codesponsor.io/link/LhLT2c31ydJzdLUuSR9f8mCA/siddharthkp/atom-import-cost)
