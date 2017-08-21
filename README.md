@@ -28,8 +28,6 @@ Please feel free to help out with these :)
 
 1. The size text doesn't always align perfectly (vertically)
 
-2. This packages uses the [cost-of-modules](https://cost-of-modules.herokuapp.com) api by [@pastelsky](https://github.com/pastelsky). It's hosted on a free heroku instance, might not always be able to support the traffic it gets :)
-
 &nbsp;
 
 #### Show your support
