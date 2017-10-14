@@ -1,8 +1,12 @@
 #### atom-import-cost
 
+Check the size of the package you import, right in the editor.
+
 &nbsp;
 
-Check the size of the package you import, right in the editor.
+#### sponsor
+
+[![Sponsor](https://app.codesponsor.io/embed/LhLT2c31ydJzdLUuSR9f8mCA/siddharthkp/atom-import-cost.svg)](https://app.codesponsor.io/link/LhLT2c31ydJzdLUuSR9f8mCA/siddharthkp/atom-import-cost)
 
 &nbsp;
 
@@ -25,5 +29,3 @@ Search from `atom-import-cost` in Atom packages or run `apm install atom-import-
 :star: this repo
 
 &nbsp;
-
-[![Sponsor](https://app.codesponsor.io/embed/LhLT2c31ydJzdLUuSR9f8mCA/siddharthkp/atom-import-cost.svg)](https://app.codesponsor.io/link/LhLT2c31ydJzdLUuSR9f8mCA/siddharthkp/atom-import-cost)
